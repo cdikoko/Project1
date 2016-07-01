@@ -33,6 +33,9 @@ This program only contains one class, so to run it the user needs to download it
 ![alt](https://github.com/cdikoko/Project1/blob/master/Screenshot%20(30).png)
 
 ![alt](https://github.com/cdikoko/Project1/blob/master/Screenshot%20(31).png)
+
+Once its executed the new files are created
+
 ![alt](https://github.com/cdikoko/Project1/blob/master/Screenshot%20(32).png)
 
 #New Sorted Files
